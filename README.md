@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/adwi-ti/DSA/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/adwi-ti/DSA/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/adwi-ti/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/adwi-ti/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/adwi-ti/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/adwi-ti/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/adwi-ti/DSA/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/adwi-ti/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/adwi-ti/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adwi-ti/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/adwi-ti/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/adwi-ti/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/adwi-ti/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
