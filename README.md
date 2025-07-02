@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/adwi-ti/DSA/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/adwi-ti/DSA/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/adwi-ti/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/adwi-ti/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/adwi-ti/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/adwi-ti/DSA/tree/master/0075-sort-colors) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/adwi-ti/DSA/tree/master/0048-rotate-image) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/adwi-ti/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/adwi-ti/DSA/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/adwi-ti/DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
