@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adwi-ti/DSA/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/adwi-ti/DSA/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/adwi-ti/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/adwi-ti/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/adwi-ti/DSA/tree/master/0075-sort-colors) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/adwi-ti/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/adwi-ti/DSA/tree/master/0075-sort-colors) |
 ## Dynamic Programming
 |  |
