@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/adwi-ti/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/adwi-ti/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/adwi-ti/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2058-concatenation-of-array](https://github.com/adwi-ti/DSA/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/adwi-ti/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/adwi-ti/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/adwi-ti/DSA/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
