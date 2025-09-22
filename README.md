@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/adwi-ti/DSA/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/adwi-ti/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/adwi-ti/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/adwi-ti/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/adwi-ti/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/adwi-ti/DSA/tree/master/0053-maximum-subarray) |
@@ -72,10 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/adwi-ti/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/adwi-ti/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/adwi-ti/DSA/tree/master/0075-sort-colors) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/adwi-ti/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/adwi-ti/DSA/tree/master/0053-maximum-subarray) |
 ## Matrix
 |  |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/adwi-ti/DSA/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/adwi-ti/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/adwi-ti/DSA/tree/master/0232-implement-queue-using-stacks) |
 ## Design
@@ -100,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/adwi-ti/DSA/tree/master/2058-concatenation-of-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/adwi-ti/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
