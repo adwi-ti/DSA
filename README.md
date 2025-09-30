@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adwi-ti/DSA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/adwi-ti/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/adwi-ti/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/adwi-ti/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/adwi-ti/DSA/tree/master/0042-trapping-rain-water) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/adwi-ti/DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/adwi-ti/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/adwi-ti/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/adwi-ti/DSA/tree/master/0169-majority-element) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/adwi-ti/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/adwi-ti/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/adwi-ti/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/adwi-ti/DSA/tree/master/0075-sort-colors) |
