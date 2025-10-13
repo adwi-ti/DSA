@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/adwi-ti/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adwi-ti/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/adwi-ti/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0898-transpose-matrix](https://github.com/adwi-ti/DSA/tree/master/0898-transpose-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/adwi-ti/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2058-concatenation-of-array](https://github.com/adwi-ti/DSA/tree/master/2058-concatenation-of-array) |
 ## Hash Table
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/adwi-ti/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/adwi-ti/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/adwi-ti/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0898-transpose-matrix](https://github.com/adwi-ti/DSA/tree/master/0898-transpose-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/adwi-ti/DSA/tree/master/0054-spiral-matrix) |
+| [0898-transpose-matrix](https://github.com/adwi-ti/DSA/tree/master/0898-transpose-matrix) |
 | [2058-concatenation-of-array](https://github.com/adwi-ti/DSA/tree/master/2058-concatenation-of-array) |
 ## Monotonic Stack
 |  |
