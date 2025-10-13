@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/adwi-ti/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/adwi-ti/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/adwi-ti/DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/adwi-ti/DSA/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/adwi-ti/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/adwi-ti/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adwi-ti/DSA/tree/master/0217-contains-duplicate) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/adwi-ti/DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/adwi-ti/DSA/tree/master/0054-spiral-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/adwi-ti/DSA/tree/master/0054-spiral-matrix) |
 | [2058-concatenation-of-array](https://github.com/adwi-ti/DSA/tree/master/2058-concatenation-of-array) |
 ## Monotonic Stack
 |  |
