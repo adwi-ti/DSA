@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/adwi-ti/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/adwi-ti/DSA/tree/master/0242-valid-anagram) |
+| [2235-capitalize-the-title](https://github.com/adwi-ti/DSA/tree/master/2235-capitalize-the-title) |
 ## Divide and Conquer
 |  |
 | ------- |
