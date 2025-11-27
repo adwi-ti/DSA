@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/adwi-ti/DSA/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/adwi-ti/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/adwi-ti/DSA/tree/master/0242-valid-anagram) |
 | [2235-capitalize-the-title](https://github.com/adwi-ti/DSA/tree/master/2235-capitalize-the-title) |
 ## Divide and Conquer
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/adwi-ti/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/adwi-ti/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/adwi-ti/DSA/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/adwi-ti/DSA/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
