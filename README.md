@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/adwi-ti/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/adwi-ti/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0898-transpose-matrix](https://github.com/adwi-ti/DSA/tree/master/0898-transpose-matrix) |
+| [0977-squares-of-a-sorted-array](https://github.com/adwi-ti/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/adwi-ti/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2058-concatenation-of-array](https://github.com/adwi-ti/DSA/tree/master/2058-concatenation-of-array) |
 ## Hash Table
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/adwi-ti/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adwi-ti/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/adwi-ti/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0977-squares-of-a-sorted-array](https://github.com/adwi-ti/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/adwi-ti/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/adwi-ti/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/adwi-ti/DSA/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/adwi-ti/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
