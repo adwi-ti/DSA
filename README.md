@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/adwi-ti/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adwi-ti/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/adwi-ti/DSA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/adwi-ti/DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/adwi-ti/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0898-transpose-matrix](https://github.com/adwi-ti/DSA/tree/master/0898-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/adwi-ti/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/adwi-ti/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/adwi-ti/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adwi-ti/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/adwi-ti/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/adwi-ti/DSA/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/adwi-ti/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/adwi-ti/DSA/tree/master/0977-squares-of-a-sorted-array) |
