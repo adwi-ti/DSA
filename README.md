@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adwi-ti/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/adwi-ti/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adwi-ti/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/adwi-ti/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/adwi-ti/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0898-transpose-matrix](https://github.com/adwi-ti/DSA/tree/master/0898-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/adwi-ti/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/adwi-ti/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adwi-ti/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adwi-ti/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/adwi-ti/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/adwi-ti/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/adwi-ti/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adwi-ti/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adwi-ti/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/adwi-ti/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/adwi-ti/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/adwi-ti/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/adwi-ti/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/adwi-ti/DSA/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/adwi-ti/DSA/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/adwi-ti/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
@@ -152,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/adwi-ti/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adwi-ti/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/adwi-ti/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/adwi-ti/DSA/tree/master/0268-missing-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/adwi-ti/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
@@ -203,4 +208,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/adwi-ti/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/adwi-ti/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
