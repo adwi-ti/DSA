@@ -211,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/adwi-ti/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/adwi-ti/DSA/tree/master/0268-missing-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/adwi-ti/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
